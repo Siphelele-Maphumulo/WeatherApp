@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --sm:min-width:250px;
+  --md:min-width:600px;
+  --lg:min-width:1000px;
+
+  --image:url('https://images.pexels.com/photos/531756/pexels-photo-531756.jpeg?auto=compress&cs=tinysrgb&w=600');
+  }
